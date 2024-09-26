@@ -1,0 +1,21 @@
+C:\Users\fjstavares\OneDrive - Tel & Com S A\Documentos\SharpDevelop Projects\NOCActions\NOCActions\bin\Debug\NOCActions.exe
+C:\Users\fjstavares\OneDrive - Tel & Com S A\Documentos\SharpDevelop Projects\NOCActions\NOCActions\bin\Debug\NOCActions.pdb
+C:\Users\fjstavares\OneDrive - Tel & Com S A\Documentos\SharpDevelop Projects\NOCActions\NOCActions\obj\Debug\NOCActions.csprojResolveAssemblyReference.cache
+C:\Users\fjstavares\OneDrive - Tel & Com S A\Documentos\SharpDevelop Projects\NOCActions\NOCActions\obj\Debug\NOCActions.exe
+C:\Users\fjstavares\OneDrive - Tel & Com S A\Documentos\SharpDevelop Projects\NOCActions\NOCActions\obj\Debug\NOCActions.pdb
+C:\Users\fjstavares\OneDrive - Tel & Com S A\Documentos\SharpDevelop Projects\NOCActions\NOCActions\obj\Debug\NOCActions.MainForm.resources
+C:\Users\fjstavares\OneDrive - Tel & Com S A\Documentos\SharpDevelop Projects\NOCActions\NOCActions\obj\Debug\NOCActions.csproj.GenerateResource.Cache
+C:\Tel&ComCs\NOCActions\NOCActions\obj\Debug\NOCActions.csprojResolveAssemblyReference.cache
+C:\Tel&ComCs\NOCActions\NOCActions\obj\Debug\NOCActions.MainForm.resources
+C:\Tel&ComCs\NOCActions\NOCActions\obj\Debug\NOCActions.csproj.GenerateResource.Cache
+C:\Tel&ComCs\NOCActions\NOCActions\obj\Debug\NOCActions.exe
+C:\Tel&ComCs\NOCActions\NOCActions\bin\Debug\NOCActions.exe
+C:\Tel&ComCs\NOCActions\NOCActions\bin\Debug\NOCActions.pdb
+C:\Tel&ComCs\NOCActions\NOCActions\obj\Debug\NOCActions.pdb
+C:\NOCActions\bin\Debug\NOCActions.exe
+C:\NOCActions\bin\Debug\NOCActions.pdb
+C:\NOCActions\obj\Debug\NOCActions.csprojResolveAssemblyReference.cache
+C:\NOCActions\obj\Debug\NOCActions.MainForm.resources
+C:\NOCActions\obj\Debug\NOCActions.csproj.GenerateResource.Cache
+C:\NOCActions\obj\Debug\NOCActions.exe
+C:\NOCActions\obj\Debug\NOCActions.pdb
